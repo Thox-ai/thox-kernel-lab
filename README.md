@@ -65,3 +65,17 @@ Status: public technical draft; experimental validation is incomplete; not peer 
 ## License
 
 Apache-2.0. See [LICENSE](LICENSE) and [NOTICE.md](NOTICE.md).
+
+---
+
+## Legal
+
+Copyright (c) 2024-2026 THOX.ai LLC. All rights reserved.
+
+**THOX.ai LLC**
+- CTO: Tommy Xaypanya
+- CEO: Craig Ross
+
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for details.
+
+Unauthorized copying, modification, merger, publication, distribution, sublicensing, and/or selling of this software, via any medium, is strictly prohibited without prior written consent from THOX.ai LLC.
